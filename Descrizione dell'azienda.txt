@@ -1,0 +1,11 @@
+Nome dell'azienda: Astro Finanza S.R.L.
+Settore: E-commerce, consultoring
+Size: Vendita anuale obiettivo: 500k–1M €
+Orizzonte temporale: Lavoraremo con 24 mesi di data (2 anni)
+
+Domande per l'analisi:
+
+1. Come si è evoluto il margine lordo negli ultimi 24 mesi?
+2. In quali mesi il flusso di cassa è stato critico (quasi negativo)?
+3. Qual è la proporzione dei costi fissi rispetto al fatturato?
+4. Qual è il nostro tasso di crescita mensile medio?
