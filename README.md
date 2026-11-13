@@ -1,4 +1,4 @@
-# 📘 **README – Financial Health Dashboard**
+# 📘 **Financial Health Dashboard**
 
 **Autore:** *Jay Peralta – Ingegnere Finanziario & Data Analyst*
 **Tecnologie:** `Excel` · `Power BI` · `DAX`
